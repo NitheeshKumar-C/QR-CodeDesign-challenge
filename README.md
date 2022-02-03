@@ -5,7 +5,7 @@ This is a solution to the QR code component challenge on Frontend Mentor. Fronte
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Design](#design)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,7 +22,7 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Design
 
 ![](design/desktop-preview.jpg)
 
