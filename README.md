@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/NitheeshKumar-C/QR-CodeDesign-challenge)
-- Live Site URL: (https://nitheeshkumar-c.github.io/QR-CodeDesign-challenge/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-page-using-css-Yrsab8IEs)
+- [Live Site URL](https://nitheeshkumar-c.github.io/QR-CodeDesign-challenge/)
 
 ## My process
 
