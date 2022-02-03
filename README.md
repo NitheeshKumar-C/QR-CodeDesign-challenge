@@ -43,7 +43,7 @@ Users should be able to:
 - positions and responsive design.
 
 ### Useful resources
-- [https://www.w3schools.com positions](https://www.w3schools.com/css/css3_flexbox.asp) - This helped me for understading in types of position and its usage.
+- [https://www.w3schools.com positions](https://www.w3schools.com/css/css_positioning.asp) - This helped me for understading in types of position and its usage.
 
 ## Author
 
